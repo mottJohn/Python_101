@@ -6,7 +6,7 @@ I think the best introduction to Python for our purpose (Handing data, and analy
 3. Excel is not free and has no access to huge opensource library that Python has.
 4. Data analysis in Excel is more like mannual drag and drop rather than automated like Python.
 
-Highly encourage all of you to learn Python, especially [Pandas](https://pandas.pydata.org/), a data analysis package. You would learn enough to read codes in my repository within weeks.
+Highly encourage all of you to learn Python, especially [Pandas](https://pandas.pydata.org/), a data analysis package. You would learn enough to read codes in my repository within weeks (Yes. My codes are not rocket science. I did not use any genius magic LOL).
 
 # Installation of Python
 1. Download [Anaconda distribution of python 3.7](https://www.anaconda.com/distribution/), OR
