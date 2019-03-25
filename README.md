@@ -14,7 +14,7 @@ Highly encourage all of you to learn Python, especially [Pandas](https://pandas.
 
 # How to Run Python File in Terminal
 1. search anaconda in Window's start menu
-2. type "cd direction/you/saved/the/program", e.g. cd "C:\Users\CHA82870\OneDrive - Mott MacDonald\Documents\summarizeOutstanding_3RS"
+2. type "cd direction/you/saved/the/program", e.g. cd "C:\Users\UserName\OneDrive - Mott MacDonald\Documents\summarizeOutstanding_3RS"
 3. type python fileName
 
 # Useful Resources to Learn Python
