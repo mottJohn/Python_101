@@ -22,3 +22,6 @@ Highly encourage all of you to learn Python, especially [Pandas](https://pandas.
   This is the main book I read when I started learning Python.
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   A good website to probably save you some time
+
+## Contribute to the list
+Submit a [pull request](https://help.github.com/en/articles/about-pull-requests)
