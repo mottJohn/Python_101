@@ -10,7 +10,6 @@ Highly encourage all of you to learn Python, especially [Pandas](https://pandas.
 
 # Installation of Python
 1. Download [Anaconda distribution of python 3.7](https://www.anaconda.com/distribution/), OR
-2. Request through ServiceNOW
 
 # How to Run Python File in Terminal
 1. search anaconda in Window's start menu
