@@ -17,7 +17,7 @@ Highly encourage all of you to learn Python, especially [Pandas](https://pandas.
 3. type python fileName
 
 # Useful Resources to Learn Python
-* [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
+* [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/). You can download it [here](https://github.com/chenomg/CS_BOOKS/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf)
   This is the main book I read when I started learning Python.
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   A good website to probably save you some time
